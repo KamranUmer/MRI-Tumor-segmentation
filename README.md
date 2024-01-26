@@ -3,10 +3,10 @@
 Instance segmentation using yolov7 on custom dataset for MRL images
 
 
-Overview
+# Overview
 This repository contains the implementation of a Brain Tumor Segmentation project using YOLOv7, a state-of-the-art object detection algorithm. The goal of this project is to accurately identify and delineate tumor regions in MRI scans, which can significantly assist medical professionals in diagnosis, treatment planning, and monitoring the progression of brain tumors.
 
-Dataset
+# Dataset
 The dataset used in this project comprises a collection of MRI brain scan images, each labeled with corresponding tumor annotations. Due to the sensitivity of medical data and the Dataset should be in the yolov7 format.
 
 # Installation
